@@ -14,6 +14,7 @@
 		A38912411E82DA4800A17954 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A389123F1E82DA4800A17954 /* LaunchScreen.storyboard */; };
 		A389124C1E82DA4800A17954 /* Actividad1_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A389124B1E82DA4800A17954 /* Actividad1_1Tests.swift */; };
 		A38912571E82DA4800A17954 /* Actividad1_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38912561E82DA4800A17954 /* Actividad1_1UITests.swift */; };
+		A38912651E82DFC400A17954 /* VCRegistrar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38912641E82DFC400A17954 /* VCRegistrar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A38912521E82DA4800A17954 /* Actividad1.1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Actividad1.1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38912561E82DA4800A17954 /* Actividad1_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Actividad1_1UITests.swift; sourceTree = "<group>"; };
 		A38912581E82DA4800A17954 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A38912641E82DFC400A17954 /* VCRegistrar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VCRegistrar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A389123D1E82DA4800A17954 /* Assets.xcassets */,
 				A389123F1E82DA4800A17954 /* LaunchScreen.storyboard */,
 				A38912421E82DA4800A17954 /* Info.plist */,
+				A38912641E82DFC400A17954 /* VCRegistrar.swift */,
 			);
 			path = Actividad1.1;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				A38912391E82DA4800A17954 /* ViewController.swift in Sources */,
 				A38912371E82DA4800A17954 /* AppDelegate.swift in Sources */,
+				A38912651E82DFC400A17954 /* VCRegistrar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
